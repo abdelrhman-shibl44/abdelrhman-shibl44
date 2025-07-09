@@ -13,7 +13,7 @@ I'm a passionate **MERN Stack Developer** specializing in modern frontend techno
 - 🔭 **Currently Working On:** Athar EMS - Frontend development for a multi-module enterprise management platform
 - 🌱 **Learning:** Advanced Next.js patterns, Backend development (Node.js, Express), MongoDB, and full-stack architecture
 - 💼 **Open to:** Frontend/MERN stack opportunities, freelance projects, and collaboration
-- 📫 **Reach me at:** [Your Email] | [Your LinkedIn]
+- 📫 **Reach me at:** [abdulrhman.mahmoud44@gmail.com] | [https://www.linkedin.com/in/abdelrhman-shibl/]
 
 ## 🛠️ Tech Stack
 
