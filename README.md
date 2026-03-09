@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdelrhman - MERN Stack Developer
+# 👋 Hi, I'm Abdelrhman - Full Stack Developer
 
 <div align="center">
 
@@ -8,11 +8,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate **MERN Stack Developer** specializing in modern frontend technologies with a focus on creating scalable, user-friendly applications. Currently working as a **Frontend Developer** on **Athar EMS** - a comprehensive Employee Management System that demonstrates my expertise in building enterprise-level frontend solutions.
+I'm a passionate **Frontend / Full-Stack JavaScript Developer** focused on building scalable and user-friendly web applications using modern technologies.
 
-- 🔭 **Currently Working On:** Athar EMS - Frontend development for a multi-module enterprise management platform
-- 🌱 **Learning:** Advanced Next.js patterns, Backend development (Node.js, Express), MongoDB, and full-stack architecture
-- 💼 **Open to:** Frontend/MERN stack opportunities, freelance projects, and collaboration
+I recently completed development work on **Athar EMS**, a multi-module enterprise Employee Management System, where I worked on building and maintaining the frontend interface and user experience.
+
+Currently, I'm strengthening my computer science fundamentals by learning **Object-Oriented Programming (OOP) using C++**, while continuing to expand my backend and full-stack knowledge.
+
+- 🔭 **Currently Completed:** Athar EMS – Frontend development for a multi-module enterprise management platform
+- 🌱 **Learning:** Object-Oriented Programming with C++, Advanced Next.js patterns, Backend development with Node.js & Express, MongoDB, and full-stack architecture
+- 💼 **Open to:** Frontend Developer / Full-Stack JavaScript Developer opportunities, freelance projects, and collaboration
 - 📫 **Reach me at:** [abdulrhman.mahmoud44@gmail.com] | [https://www.linkedin.com/in/abdelrhman-shibl/]
 
 ## 🛠️ Tech Stack
